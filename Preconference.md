@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SANS Preconference 2019
+title: Computational SAN Preconference 2019
 featured-image: images/preconference/SANS.png
 ---
 
