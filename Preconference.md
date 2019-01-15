@@ -13,7 +13,7 @@ The goal of this workshop is to provide a general introduction to applying compu
 <ul>
 <li><strong>Date</strong>: May 2nd, 2019</li>
 <li><strong>Cost</strong>: $35</li>
-<li><strong>Location</strong>: Miami, FL</li>
+<li><strong>Location</strong>: Kimptom Surfcomber Hotel, Miami Beach, FL</li>
 </ul>
 
 ## Registration
